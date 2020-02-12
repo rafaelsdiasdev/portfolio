@@ -259,7 +259,11 @@ h2 {
     .info {
         padding-top: 3px !important ;
     }
+
+    p {
+        margin: 0
+    }
     
   }
 
-/*# sourceMappingURL=demo.d6c68f86.css.map*/
+/*# sourceMappingURL=demo.bc099dc5.css.map*/

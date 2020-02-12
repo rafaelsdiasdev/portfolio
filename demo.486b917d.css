@@ -46,20 +46,17 @@ html, body {
 }
 
 .component.second-component {
-    background-color: red;
+    background-color: #2D2E2E;
 }
 
 .component.third-component {
-    background-color: blue;
+    background-color: #2D2E2E;
 }
 
 .component.fourth-component {
-    background-color: yellow;
+    background-color: #2D2E2E;
 }
 
-.component.fifth-component {
-    background-color: purple;
-}
 
 h2 {
     margin: auto;
@@ -125,4 +122,25 @@ h2 {
       background-color: #2D2E2E;
   } */
 
-/*# sourceMappingURL=demo.f17aed5e.css.map*/
+  .card-body {
+      background-color: #2B2C2C;
+  }
+
+  a:hover{
+    text-decoration: none;
+
+  }
+
+  /* h5{
+    color: #A4A5A6;
+  } */
+
+  h5{
+    color: #E0A80D;
+  }
+
+  h1{
+      font-size: 50px;
+  }
+
+/*# sourceMappingURL=demo.486b917d.css.map*/

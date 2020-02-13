@@ -187,6 +187,8 @@ h2 {
         -webkit-box-pack: center !important ;
             -ms-flex-pack: center !important ;
                 justify-content: center !important ;
+        margin-top: 30px;
+        text-align: center;
     }
     
   }
@@ -237,10 +239,7 @@ h2 {
                 justify-content: center !important ;
     }
 
-    .name {
-        margin-top: 30px;
-        text-align: center;
-    }
+
 
     .nome {
         text-align: center !important ;
@@ -257,7 +256,7 @@ h2 {
     }
 
     .info {
-        padding-top: 3px !important ;
+        padding-top: 8px !important ;
     }
 
     p {
@@ -266,4 +265,4 @@ h2 {
     
   }
 
-/*# sourceMappingURL=demo.bc099dc5.css.map*/
+/*# sourceMappingURL=demo.3f21d709.css.map*/

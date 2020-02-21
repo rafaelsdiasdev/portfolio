@@ -341,9 +341,13 @@ html, body {
         font-size: 18px !important;
     }
     .title {
+        margin: 0;
         font-size: 25px !important;
 
     }
+    .projects {
+        padding: 0 !important;
+    }
 }
 
-/*# sourceMappingURL=demo.e9ab1a1f.css.map*/
+/*# sourceMappingURL=demo.e8f278e7.css.map*/
